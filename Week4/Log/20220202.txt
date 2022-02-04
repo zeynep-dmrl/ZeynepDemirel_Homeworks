@@ -1,2 +1,0 @@
-All NFTs that are in list fetched sorted by their ids.	Time: 23:55:06
-All NFTs that are in list fetched sorted by their ids.	Time: 23:58:48
